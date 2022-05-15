@@ -13,7 +13,7 @@
 
 @media (max-width: 767px){
     body::before{
-        background-image: url(../imagens/backgound-mobile.gif);
+        background-image: url(../imagens/backgound-mobile.jpg);
         background-repeat: no-repeat;
         background-position: center;
         opacity: 1;
